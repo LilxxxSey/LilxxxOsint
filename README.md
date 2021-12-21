@@ -1,4 +1,4 @@
-# OSINTed
+# OSINT
 an easy to-use Open Source Intelligence framework 
 ---
 # why?
