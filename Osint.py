@@ -297,7 +297,7 @@ while True:
 
             # WHO AM I
             if cmd.split()[0] == "whoami":
-                print(good + white + "Made by " + yellow + "@spooky_sec" + end)
+                print(good + white + "Made by " + yellow + "LilxxxSey" + end)
 
             # BANNER
             if cmd.split()[0] == "banner":
