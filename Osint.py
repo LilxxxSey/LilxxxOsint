@@ -37,7 +37,7 @@ print(banner)
 while True:
     try:
         CommandComplete()
-        cmd = input(yellow + "OSINTed> " + end)
+        cmd = input(yellow + "LilxxxOsint> " + end)
         if cmd != "":
 
             # META DATA
