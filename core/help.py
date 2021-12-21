@@ -1,5 +1,7 @@
 from core.color import white, yellow, green
+
 HelpMenu = f"""{white} Otros:
+
     {yellow} help:{green} Imprime este menu, idiota!
     {yellow} banner:{green} Imprime el legendario banner.
     {yellow} clear:{green} Limpia la terminal.
@@ -7,7 +9,9 @@ HelpMenu = f"""{white} Otros:
     {yellow} update:{green} Actualiza el script.
     {yellow} whoami:{green} Hmn, ¿Quién soy?
     {yellow} sherlockupdate:{green} Actualiza el sherlock.
+    
 {white} Herramientas:
+
     {yellow} whois:{green} El mejor carcel de whois
     {yellow} ipinfo:{green} Sacar la info de una ip por Osint :)
     {yellow} nslookup:{green} Nslookup, básico.
