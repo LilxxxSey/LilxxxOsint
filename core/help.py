@@ -1,21 +1,21 @@
 from core.color import white, yellow, green
 HelpMenu = f"""{white} Misc:
-    {yellow} help:{green} prints this menu... duh!
-    {yellow} banner:{green} prints the legendary banner
-    {yellow} clear:{green} clears the terminal
-    {yellow} exit:{green} exits instead of Ctrl+C
-    {yellow} update:{green} updates using my magical update script
-    {yellow} whoami:{green} hmm who even am I?
-    {yellow} sherlockupdate:{green} updates the sherlock site list
+    {yellow} help:{green} Imprime este menu, idiota!
+    {yellow} banner:{green} Imprime el legendario banner.
+    {yellow} clear:{green} Limpia la terminal.
+    {yellow} exit:{green} Salir o pulsa Ctrl+C
+    {yellow} update:{green} Actualiza el script.
+    {yellow} whoami:{green} Hmn, ¿Quién soy?
+    {yellow} sherlockupdate:{green} Actualiza el sherlock.
 {white} Tools:
-    {yellow} whois:{green} a more beautiful whois lookup
-    {yellow} ipinfo:{green} the most annoying thing when it comes to OSINT made easy :)
-    {yellow} nslookup:{green} nslookup, basic.
-    {yellow} phoneinfo:{green} basic phone number information
-    {yellow} portscan:{green} basic Nmap port scan
-    {yellow} passwordcheck:{green} a personal favorite, check if the password has been breached before
-    {yellow} imagesearch:{green} google reverse image search
-    {yellow} maclookup:{green} I bet this will save you 16 hours of your life, trying to lookup a MAC address
-    {yellow} instainfo:{green} heard of Instagram scraping before?
-    {yellow} sherlock:{green} ah I just love this one, lookup a username across different social platforms
-    {yellow} metadata:{green} extracts some meta data out of files"""
+    {yellow} whois:{green} El mejor carcel de whois
+    {yellow} ipinfo:{green} Sacar la info de una ip por Osint :)
+    {yellow} nslookup:{green} Nslookup, básico.
+    {yellow} phoneinfo:{green} Recolecta info de un número.
+    {yellow} portscan:{green} Basico Nmap scanner de puertos.
+    {yellow} passwordcheck:{green} El personal favorito, compruebe si la contraseña ha sido violada antes
+    {yellow} imagesearch:{green} búsqueda inversa de imágenes de google
+    {yellow} maclookup:{green} Apuesto a que esto le ahorrará 16 horas de su vida, tratando de buscar una dirección MAC
+    {yellow} instainfo:{green} ¿Has oído hablar del raspado de Instagram antes?
+    {yellow} sherlock:{green} ah, me encanta este, busque un nombre de usuario en diferentes plataformas sociales
+    {yellow} metadata:{green} extrae algunos metadatos de los archivos """
