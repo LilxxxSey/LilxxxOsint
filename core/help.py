@@ -1,4 +1,4 @@
-from core.color import white, yellow, green
+from core.color import white, red, green
 
 HelpMenu = f"""{white} Otros:
     {red} help:{green} Imprime este menu, idiota!
