@@ -1,7 +1,7 @@
-# OSINT
-an easy to-use Open Source Intelligence framework 
+# OSINT Lilxxx
+Una forma fácil de extraer datos
 ---
-# why?
-to make it super easy and fun to hunt down those targets!
+# ¿porqué?
+lo hace super fácil, no tendras que hacer un esfuerzo.
 ---
-## Trust me, you'll love it :)
+## Recuerda que no es bueno usar maquinas que te lo dan todo ya hecho..
